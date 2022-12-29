@@ -1,10 +1,10 @@
 {
-    "name": "Runtime",
+    "name": "Editor.ServiceLocator",
     "rootNamespace": "",
-    "references": [
-        "GUID:787748a2f87bce04a8d1ece3ba6064e2"
+    "references": [],
+    "includePlatforms": [
+        "Editor"
     ],
-    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
