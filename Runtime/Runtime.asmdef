@@ -1,7 +1,9 @@
 {
     "name": "Runtime",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:787748a2f87bce04a8d1ece3ba6064e2"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
