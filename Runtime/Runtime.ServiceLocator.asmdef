@@ -1,8 +1,8 @@
 {
     "name": "Runtime.ServiceLocator",
-    "rootNamespace": "",
+    "rootNamespace": "Patterns.ServiceLocator",
     "references": [
-        "GUID:8adfcfebf0e720a46b081988f0195671"
+        "GUID:6cae4c52be52a3b499cd25aa0335152e"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
